@@ -11,3 +11,4 @@ echo -e "Kernal Details: " `uname -smr`
 echo -e "`bash --version`"
 echo -ne "Uptime: "; uptime
 echo -ne "Server time: "; date
+
